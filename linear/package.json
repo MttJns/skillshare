@@ -1,0 +1,14 @@
+{
+  "name": "linear-plugin",
+  "version": "1.0.0",
+  "description": "Claude Code plugin for Linear project management",
+  "main": "scripts/linear.js",
+  "scripts": {
+    "setup": "bash scripts/setup.sh"
+  },
+  "dependencies": {
+    "@linear/sdk": "^14.0.0"
+  },
+  "author": "mjones",
+  "license": "MIT"
+}

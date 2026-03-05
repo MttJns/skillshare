@@ -1,0 +1,7 @@
+{
+  "name": "linear-plugin",
+  "description": "Connect Claude to Linear for reading issues, implementing tickets, updating status, commenting, labeling, and archiving.",
+  "author": {
+    "name": "mjones"
+  }
+}
