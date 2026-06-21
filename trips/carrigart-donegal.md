@@ -2,6 +2,8 @@
 
 > A compact Gaeltacht village on Sheephaven Bay — your base for the Wild Atlantic Way's most dramatic northern stretches.
 
+> **Before you go:** Always verify opening hours and that businesses are still operating — rural Donegal venues open seasonally or close without updating their websites. Google Maps "permanently closed" flags are a reliable signal.
+
 ---
 
 ## Getting There
@@ -79,11 +81,9 @@ The village is in an Irish-speaking district. Signs, place names, and some local
 
 | Activity | Where | Notes |
 |---|---|---|
-| Kayaking & zip-line | Glen Valley Adventure Centre | Book ahead in summer |
 | Horse riding | Rosguill area | Scenic beach and trail rides |
 | Golf | [Rosapenna Golf Resort](https://www.rosapenna.ie), [Portsalon Golf Club](https://www.portsalongolfclub.com) | World-class links courses |
 | Diving | Sheephaven Bay & offshore | Guided tours available locally |
-| Archery | Glen Valley Adventure Centre | — |
 
 ---
 
